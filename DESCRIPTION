@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/Yuichi-t1207/narasearch
+BugReports: https://github.com/Yuichi-t1207/narasearch/issues
